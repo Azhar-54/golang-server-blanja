@@ -74,7 +74,7 @@ Ensure you have the following installed on your local machine:
 1. Clone Repo
 
    ```sh
-     git clone https://github.com/dimassagngsptr/golang-server-blanja.git
+     git clone https://github.com/Azhar-54/golang-server-blanja.git
    ```
 
 2. Go to workspace
@@ -226,7 +226,7 @@ Access the API documentation for the **Blanja** project. Use this documentation 
 
 ### Project Related
 
-- [`Front-End Project Repository Link`](https://github.com/dimassagngsptr/react-client-blanja.git)
+- [`Front-End Project Repository Link`](https://github.com/Azhar-54/blanja-kelompok-1)
 
 - [`Front-End Demonstration Link`](https://innovation-blanja.vercel.app/)
 
@@ -289,9 +289,9 @@ Contributions are what make the open source community such an amazing place to l
 
 If you have any questions or inquiries regarding this project, feel free to contact:
 
-email : dimasageng58@gmail.com 
+email :burhanuddinazhar2@gmail.com
 
-linkedin : https://www.linkedin.com/in/dimasagengsaputro/
+linkedin : [https://www.linkedin.com/in/burhanudin-azhar/] (https://www.linkedin.com/in/burhanudin-azhar/)
 
 ## Acknowledgements
 
