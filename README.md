@@ -291,7 +291,7 @@ If you have any questions or inquiries regarding this project, feel free to cont
 
 email :burhanuddinazhar2@gmail.com
 
-linkedin : [https://www.linkedin.com/in/burhanudin-azhar/] (https://www.linkedin.com/in/burhanudin-azhar/)
+linkedin : https://www.linkedin.com/in/burhanudin-azhar 
 
 ## Acknowledgements
 
