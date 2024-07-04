@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/dimassagngsptr/react-client-blanja.git">
+  <a href="https://github.com/Azhar-54/blanja-kelompok-1">
       <img src="https://github.com/dimassagngsptr/blanja-kelompok-1/blob/master/apps/web/src/assets/logo/Group%201158.png" width="300"/>
   </a>
 
@@ -9,7 +9,7 @@
      Blanja Implementation
     <br />
     <br />
-    <a href="https://innovation-blanja.vercel.app/" target="_blank">View Website Demo</a>
+    <a href="https://github.com/Azhar-54/blanja-kelompok-1" target="_blank">View Front-End Repo</a>
     ·
      <a href="https://github.com/Azhar-54/golang-server-blanja" target="_blank">View Back-End Repo</a>
   </p>
